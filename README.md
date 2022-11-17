@@ -4,9 +4,9 @@ Tool : Eclipse, Java
 ===================================
 
 
-- 개발자가 되기위해 입력창에 숫자 입력을 하게되면 평균치의 시간을 알려주는 홈페이지.
-- This page is for getting to know about how much time to spend to be a Programmer.
-- 開発者になるために入力窓に数字を入力すると、平均値の時間を知らせるホームページ。
+- 첫 팀프로젝트로서 순수 자바로만 활용해서 만든 여행 추천 및 숙박 예약 어플리케이션입니다.
+- This app which made by JAVA Program is for Travling and accomodation application.
+- 最初のチームプロジェクトとして、JAVAだけで活用して作った旅行&宿泊の予約アプリです。
 
 ![009](https://user-images.githubusercontent.com/71341828/202450133-95e95ec5-8ed5-4afe-8ce0-edddd500a576.png)
 ![010](https://user-images.githubusercontent.com/71341828/202450146-d99c5b43-53de-4cd1-a280-e02e193eddab.png)
